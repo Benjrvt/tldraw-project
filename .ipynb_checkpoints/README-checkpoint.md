@@ -4,7 +4,6 @@
 
 ## Quickstart
 
-
  0. [Install the pixi package manager](https://pixi.sh/#installation).
 
  1. [Fork this github repository](https://github.com/boisgera/tldraw-project/fork).
